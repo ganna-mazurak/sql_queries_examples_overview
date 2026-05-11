@@ -4,7 +4,5 @@ In this task, I did the following:
 - All calculations must be done using window functions without using Group by.
 
 Result:
-![](./result.png)
 
-```sql:./emails_sent_by_month.sql
-```
+![](./result.png)
