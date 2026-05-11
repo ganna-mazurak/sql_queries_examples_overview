@@ -3,4 +3,8 @@ In this task, I did the following:
 - Determine the first and last email sent date for each account within each month.
 - All calculations must be done using window functions without using Group by.
 
-Result: ![](./result.png)
+Result:
+![](./result.png)
+
+```sql:./emails_sent_by_month.sql
+```
